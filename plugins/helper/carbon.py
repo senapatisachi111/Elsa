@@ -43,7 +43,7 @@ async def carbon_func(_, message):
     await m.edit("ᴜᴘʟᴏᴀᴅɪɴɢ..")
     await message.reply_photo(
         photo=carbon,
-        caption="**ᴛʜɪs ᴘɪᴄ ɪs ɴɪᴄᴇ ᴏɴᴇ\nᴍᴀᴅᴇ ʙʏ ᴄɪɴᴇᴍᴀʟᴀ.ᴄᴏᴍ**",
+        caption="**ᴛʜɪs ᴘɪᴄ ɪs ɴɪᴄᴇ ᴏɴᴇ\nᴍᴀᴅᴇ ʙʏ 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒**",
         reply_markup=InlineKeyboardMarkup([[InlineKeyboardButton("sᴜᴘᴘᴏʀᴛ", url=S_GROUP)]]),                   
     )
     await m.delete()

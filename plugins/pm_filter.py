@@ -165,6 +165,11 @@ async def next_page(bot, query):
              InlineKeyboardButton(f'ᴛɪᴘs', 'tinfo')
          ]
     )
+    btn.insert(2, 
+        [
+            InlineKeyboardButton('📥 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 📥', url="t.me/THE_SNS")
+        ]
+    )
 
     if 0 < offset <= 10:
         off_set = 0
@@ -452,7 +457,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                 return
             elif settings['botpm']:
                 await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
-                await query.answer('𝘾𝙝𝙚𝙘𝙠 𝙋𝙈, 𝙄 𝙝𝙖𝙫𝙚 𝙨𝙚𝙣𝙩 𝙛𝙞𝙡𝙚𝙨 𝙞𝙣 𝙥𝙢\n@ᴄᴄᴏᴍ_ᴛᴇᴀᴍ', show_alert=True)
+                await query.answer('𝘾𝙝𝙚𝙘𝙠 𝙋𝙈, 𝙄 𝙝𝙖𝙫𝙚 𝙨𝙚𝙣𝙩 𝙛𝙞𝙡𝙚𝙨 𝙞𝙣 𝙥𝙢\n@𝐓𝐄𝐀𝐌 𝐒𝐍𝐒', show_alert=True)
                 return
             else:
                 file_send=await client.send_cached_media(
@@ -493,7 +498,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
             await query.answer(url=f"https://t.me/{temp.U_NAME}?start={ident}_{file_id}")
     elif query.data.startswith("checksub"):
         if AUTH_CHANNEL and not await is_subscribed(client, query):
-            await query.answer("𝑰 𝑳𝒊𝒌𝒆 𝒀𝒐𝒖𝒓 𝑺𝒎𝒂𝒓𝒕𝒏𝒆𝒔𝒔, 𝑩𝒖𝒕 𝑫𝒐𝒏'𝒕 𝑩𝒆 𝑶𝒗𝒆𝒓𝒔𝒎𝒂𝒓𝒕 😒\n@HiMrNext", show_alert=True)
+            await query.answer("𝑰 𝑳𝒊𝒌𝒆 𝒀𝒐𝒖𝒓 𝑺𝒎𝒂𝒓𝒕𝒏𝒆𝒔𝒔, 𝑩𝒖𝒕 𝑫𝒐𝒏'𝒕 𝑩𝒆 𝑶𝒗𝒆𝒓𝒔𝒎𝒂𝒓𝒕 😒\n@𝐓𝐄𝐀𝐌 𝐒𝐍𝐒", show_alert=True)
             return
         ident, file_id = query.data.split("#")
         files_ = await get_file_details(file_id)
@@ -702,7 +707,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mrsns2503/Elsa'),
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/About_SNS'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -849,7 +854,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://github.com/mrsns2503/Elsa'),
+           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/About_SNS'),
            InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/HiMrNext')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
@@ -1107,6 +1112,11 @@ async def auto_filter(client, msg, spoll=False):
              InlineKeyboardButton(f'sᴇʀɪᴇs', 'sinfo'),
              InlineKeyboardButton(f'ᴛɪᴘs', 'tinfo')
          ]
+    )
+    btn.insert(2, 
+        [
+            InlineKeyboardButton('📥 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 📥', url="t.me/THE_SNS")
+        ]
     )
 
     if offset != "":

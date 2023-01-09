@@ -9,7 +9,7 @@ class script(object):
 # ⚠️ Please don't change our credits 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾 & 𝙳𝙴𝚅 👇🏻
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
-✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ABOUT_SNS>✪ 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 ✪</a>
+✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/HiMrNext>MR NEXT</a>
 ✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᠰ TɢX</a>
 ✯ 𝙳𝙴𝚅: <a href=https://t.me/A_s_w_i_n_01>『Dᴇᴠɪʟ࿐Tɢ』</a>
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
@@ -22,7 +22,7 @@ class script(object):
 <b>- 𝙴𝙻𝚂𝙰 𝙸𝚂 𝙾𝙿𝙴𝙽 𝚂𝙾𝚄𝚁𝙲𝙴 𝙿𝚁𝙾𝙹𝙴𝙲𝚃. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
 <b>DEVS:</b>
-- <a href=https://t.me/ABOUT_SNS>✪ 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 ✪</a>"""
+- <a href=https://t.me/HiMrNext>MR NEXT</a>"""
 
     MANUELFILTER_TXT = """Help: <b>Filters</b>
 
@@ -177,7 +177,7 @@ To Get Sticker ID
 <b>COMMAND</b> : /font your text (optional)
         <b> Eg:- /font Hello</b>
 
- <i>This feature added by ✪ 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 ✪"""
+ <i>This feature added by @MR SNS"""
     JSON_TXT = """<b>JSON:</b>
 Bot returns json for all replied messages with /json or /js
 <b>Features:</b>
@@ -264,7 +264,7 @@ Name - {}
 
 <code>{}</code>
 
-⚠️ <b>𝙵𝚘𝚛𝚠𝚊𝚛𝚍 𝚃𝚑𝚒𝚜 𝙵𝚒𝚕𝚎 𝚃𝚘 𝙰𝚗𝚢𝚠𝚑𝚎𝚛𝚎 𝚈𝚘𝚞 𝚆𝚊𝚗𝚝 𝙱𝚎𝚌𝚊𝚞𝚜𝚎: This file will be deleted from here within 10 minute as it has copyright ... !!!</b>
+⚠️ <b>This file will be deleted from here within 10 minute as it has copyright ... !!!</b>
 
 <b>കോപ്പിറൈറ്റ് ഉള്ളതുകൊണ്ട് ഫയൽ 10 മിനിറ്റിനുള്ളിൽ ഇവിടെനിന്നും ഡിലീറ്റ് ആകുന്നതാണ് അതുകൊണ്ട് ഇവിടെ നിന്നും മറ്റെവിടെക്കെങ്കിലും മാറ്റിയതിന് ശേഷം ഡൗൺലോഡ് ചെയ്യുക!</b>
 
@@ -295,9 +295,9 @@ Name - {}
 
 
 ╔════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╗
-▫️<a href=https://t.me/MoviesNSeriesSNS>⚜ 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ⚜</a>
+▫️<a href=https://t.me/MoviesNSeriesSNS> ᴄʜᴀɴɴᴇʟ </a>
 
-▫️<a href=https://t.me/MOVIESNSERIESGROUPSNS>🔰 𝐒𝐔𝐏𝐏𝐎𝐑𝐓 𝐆𝐑𝐎𝐔𝐏 🔰</a>
+▫️<a href=https://t.me/MOVIESNSERIESGROUPSNS> sᴜᴘᴘᴏʀᴛ ɢʀᴏᴜᴘ </a>
 ╚════ ᴊᴏɪɴ ᴡɪᴛʜ ᴜs ════╝</b>"""
 
     RESTART_TXT = """
@@ -312,9 +312,9 @@ Christmas is most truly Christmas when we celebrate it by giving the light of lo
 
 Merry Christmas ❄️ and Happy New Year 🎇</b>"""
 
-    ALRT_TXT = """𝚃𝙷𝙰𝚃 𝙸𝚂 𝙽𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄 𝚂𝙸𝚁 ✪ 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 ✪"""
+    ALRT_TXT = """𝚃𝙷𝙰𝚃 𝙸𝚂 𝙽𝙾𝚃 𝙵𝙾𝚁 𝚈𝙾𝚄 𝚂𝙸𝚁 @𝐓𝐄𝐀𝐌 𝐒𝐍𝐒"""
 
-    OLD_ALRT_TXT = """𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧 ✪ 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 ✪"""
+    OLD_ALRT_TXT = """𝐘𝐨𝐮 𝐚𝐫𝐞 𝐮𝐬𝐢𝐧𝐠 𝐨𝐧𝐞 𝐨𝐟 𝐦𝐲 𝐨𝐥𝐝 𝐦𝐞𝐬𝐬𝐚𝐠𝐞𝐬, 𝐩𝐥𝐞𝐚𝐬𝐞 𝐬𝐞𝐧𝐝 𝐭𝐡𝐞 𝐫𝐞𝐪𝐮𝐞𝐬𝐭 𝐚𝐠𝐚𝐢𝐧 @𝐓𝐄𝐀𝐌 𝐒𝐍𝐒"""
 
     TOP_ALRT_MSG = """♻️ ᴄʜᴇᴄᴋɪɴɢ ꜰɪʟᴇ ᴏɴ ᴍʏ ᴅᴀᴛᴀʙᴀꜱᴇ... ♻️"""
 

@@ -707,7 +707,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "source":
         buttons = [[
-            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/About_SNS'),
+            InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/SNSXTG'),
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='about')
         ]]
         reply_markup = InlineKeyboardMarkup(buttons)
@@ -854,8 +854,8 @@ async def cb_handler(client: Client, query: CallbackQuery):
         )
     elif query.data == "deploy":
         buttons = [[
-           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/About_SNS'),
-           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/HiMrNext')
+           InlineKeyboardButton('ʀᴇᴘᴏ', url='https://t.me/SNSXTG'),
+           InlineKeyboardButton('ᴏᴡɴᴇʀ', url='https://t.me/ABOUT_SNS')
         ], [
             InlineKeyboardButton('ʙᴀᴄᴋ', callback_data='aswin')
         ]]

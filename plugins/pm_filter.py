@@ -577,7 +577,9 @@ async def cb_handler(client: Client, query: CallbackQuery):
     elif query.data == "surprise":
         btn = [[
             InlineKeyboardButton('sᴜʀᴘʀɪsᴇ', callback_data='start')
-        ]]
+        ],[
+            InlineKeyboardButton('✇ 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 ✇', url="t.me/MoviesNSeriesSNS")
+                  ]]
         reply_markup=InlineKeyboardMarkup(btn)
         await query.message.edit_text(
             text=script.SUR_TXT.format(query.from_user.mention, temp.U_NAME, temp.B_NAME),

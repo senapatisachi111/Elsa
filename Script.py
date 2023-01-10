@@ -10,8 +10,8 @@ class script(object):
 
     ABOUT_TXT = """<b>✯ 𝙼𝚈 𝙽𝙰𝙼𝙴: {}
 ✯ 𝙲𝚁𝙴𝙰𝚃𝙾𝚁: <a href=https://t.me/ABOUT_SNS>🇮🇳𝐓𝐄𝐀𝐌 𝐒𝐍𝐒🇮🇳</a>
-✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: <a href=https://t.me/creatorbeatz>Jᴏᴇʟ ᠰ TɢX</a>
-✯ 𝙳𝙴𝚅: <a href=https://t.me/A_s_w_i_n_01>『Dᴇᴠɪʟ࿐Tɢ』</a>
+✯ 𝚃𝙷𝙰𝙽𝙺𝚂 𝚃𝙾: Jᴏᴇʟ ᠰ TɢX
+✯ 𝙳𝙴𝚅:『Dᴇᴠɪʟ࿐Tɢ』
 ✯ 𝙻𝙸𝙱𝚁𝙰𝚁𝚈: 𝙿𝚈𝚁𝙾𝙶𝚁𝙰𝙼
 ✯ 𝙻𝙰𝙽𝙶𝚄𝙰𝙶𝙴: 𝙿𝚈𝚃𝙷𝙾𝙽 𝟹
 ✯ 𝙳𝙰𝚃𝙰 𝙱𝙰𝚂𝙴: 𝙼𝙾𝙽𝙶𝙾 𝙳𝙱
@@ -19,7 +19,7 @@ class script(object):
 ✯ 𝙱𝚄𝙸𝙻𝙳 𝚂𝚃𝙰𝚃𝚄𝚂: v2.0.1 [ 𝙱𝙴𝚃𝙰 ]</b>"""
 
     SOURCE_TXT = """<b>NOTE:</b>
-<b>- 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝙼𝚊𝚍𝚎 𝙵𝚘𝚛 ✇ 𝚂𝙽𝚂 𝙼𝙾𝚅𝙸𝙴𝚂 ✇. 
+<b>- 𝚂𝚙𝚎𝚌𝚒𝚊𝚕𝚕𝚢 𝙼𝚊𝚍𝚎 𝙵𝚘𝚛 ✇𝚂𝙽𝚂 𝙼𝙾𝚅𝙸𝙴𝚂✇. 
 - 𝚂𝙾𝚄𝚁𝙲𝙴 - 𝙲𝙻𝙸𝙲𝙺 𝚁𝙴𝙿𝙾 𝙱𝚄𝚃𝚃𝙾𝙽</b>
 <b>DEVS:</b>
 - <a href=https://t.me/ABOUT_SNS>🇮🇳 𝐓𝐄𝐀𝐌 𝐒𝐍𝐒 🇮🇳</a>"""

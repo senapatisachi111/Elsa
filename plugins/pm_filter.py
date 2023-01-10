@@ -468,7 +468,7 @@ async def cb_handler(client: Client, query: CallbackQuery):
                     reply_markup=InlineKeyboardMarkup(
                         [
                             [
-                                InlineKeyboardButton("🔥 𝐌𝐀𝐈𝐍 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔥", url="t.me/MoviesNSeriesSNS" )
+                                InlineKeyboardButton("🔥 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 𝐂𝐇𝐀𝐍𝐍𝐄𝐋 🔥", url="t.me/MoviesNSeriesSNS2" )
                             ]
                         ]
                     )

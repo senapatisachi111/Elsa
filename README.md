@@ -83,7 +83,7 @@ You can deploy this bot anywhere.
 <details><summary>Deploy To Heroku</summary>
 <br>
 <p>
-<a href="https://heroku.com/deploy?template=https://github.com/Devil-Botz/Elsa">
+<a href="https://heroku.com/deploy?template=https://github.com/senapatisachi111/Elsa">
   <img src="https://www.herokucdn.com/deploy/button.svg" alt="Deploy">
 </a>
 </p></details>

@@ -154,7 +154,7 @@ async def next_page(bot, query):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f' ✪ {search} ✪ ', 'qinfo')
+            InlineKeyboardButton(f' 🌹 {search} 🌹 ', 'qinfo')
         ]
     )
     btn.insert(1, 
@@ -167,7 +167,7 @@ async def next_page(bot, query):
     )
     btn.insert(2, 
         [
-            InlineKeyboardButton('⍟ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 ⍟', url="t.me/MoviesNSeriesSNS2")
+            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url="t.me/MoviesNSeriesSNS2")
         ]
     )
 
@@ -1104,7 +1104,7 @@ async def auto_filter(client, msg, spoll=False):
         ]
     btn.insert(0, 
         [
-            InlineKeyboardButton(f' ✪ {search} ✪ ', 'qinfo')
+            InlineKeyboardButton(f' 🌹 {search} 🌹 ', 'qinfo')
         ]
     )
     btn.insert(1, 
@@ -1117,7 +1117,7 @@ async def auto_filter(client, msg, spoll=False):
     )
     btn.insert(2, 
         [
-            InlineKeyboardButton('⍟ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 ⍟', url="t.me/MoviesNSeriesSNS2")
+            InlineKeyboardButton('💠 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 💠', url="t.me/MoviesNSeriesSNS2")
         ]
     )
 

@@ -167,7 +167,7 @@ async def next_page(bot, query):
     )
     btn.insert(2, 
         [
-            InlineKeyboardButton('📥 𝐇𝐎𝐖 𝐓𝐎 𝐃𝐎𝐖𝐍𝐋𝐎𝐀𝐃 📥', url="t.me/THE_SNS")
+            InlineKeyboardButton('⍟ 𝐔𝐏𝐃𝐀𝐓𝐄𝐒 ⍟', url="t.me/MoviesNSeriesSNS2")
         ]
     )
 
